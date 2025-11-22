@@ -10,4 +10,8 @@
 ![Ajouter fourth.txt à la staging area](fourth.PNG)
 ![Vérifiez avec le message "adding fourth.txt"](verification.PNG)
 ![Enlevez le fichier third.txt](rm.PNG)
-
+![Ajoutez cette modification à la staging area. (En utilisant la commande "git add ."](adddddd.PNG)
+![Commiter avec le message "removing third.txt".](q13.PNG)
+![Vérifiez vos commits en utilisant git log.](<git log .PNG>)
+![Changez vos paramètres globaux pour core.pager=cat - vous pouvez en savoir plus ici.](cat.PNG)
+![Écrivez la commande appropriée pour lister toutes les configurations globales pour git sur votre machine.](116.PNG)
